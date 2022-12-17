@@ -1,0 +1,15 @@
+{
+	"host": "playhawwo.aternos.me",
+	"port": "48707",
+	"username": "7/24",
+	"logger": [ true
+		,"true : display not necessary logs. (ex: key inputs on bot)",
+		"false : display only necessary logs. (ex: errors on bot & server)"
+	],
+
+
+	"DO NOT EDIT ANY OPTIONS BELOW IF YOU DON'T KNOW YOU DOING": "",
+	"actions": ["forward", "back", "left", "right", "jump"],
+	"actionDelays": [500, 1000, 1500, 2000, 2500, 3000],
+	"retryTimes": 30000
+}
